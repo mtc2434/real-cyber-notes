@@ -1,4 +1,4 @@
-#PS1 – Should you learn PowerShell? / Who needs malware? IBM says most hackers just PowerShell through boxes now, leaving little in the way of footprints Notes
+# PS1 – Should you learn PowerShell? / Who needs malware? IBM says most hackers just PowerShell through boxes now, leaving little in the way of footprints Notes
 ## Why this matters
 -This matters because powershell is a great scripting language for creating tools. Understanding powershell will give us insight as to how hackers successfully hack a machine.
 ## Notes
